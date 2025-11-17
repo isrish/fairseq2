@@ -4,5 +4,5 @@ numpy~=2.2
 pip~=25.0
 setuptools~=80.9
 tbb-devel==2021.8;platform_machine=='x86_64'
-torch>=2.7
+#torch>=2.7
 wheel~=0.45

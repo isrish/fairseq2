@@ -2,6 +2,5 @@
 requires = [
     "setuptools>=80.9",
     "wheel",
-    "torch>=2.6.0",
 ]
 build-backend = "setuptools.build_meta"
